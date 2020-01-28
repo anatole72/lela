@@ -1,0 +1,303 @@
+apt-get install mc
+apt-get install mc
+dpkg --set-selections < /tmp/packages_list
+mc
+dpkg --set-selections < /tmp/package_list
+apt-get -u dselect-upgrade
+reboot
+ifconfig
+ping 8.8.8.8
+apt-get install mc
+mc
+nano /etc/apt/sources.list\
+nano /etc/apt/sources.list
+apt-get install mc
+apt-get update
+apt-get install mc
+aptitude update
+aptitude install mc
+ifconfig
+mc
+nano /etc/ssh/sshd_config 
+service sshd restart
+sshd restart
+cp /tmp/sources.list /etc/apt
+cd /etc/apt
+ls -la
+aptitude install mc
+apt-get install mc
+sudo kedit
+ kedit
+nano /etc/apt/sources.list
+apt-get install mc
+apt-get install mc
+apt-get upate
+apt-get update
+apt-get install mc
+mc
+apt-get install --no-install-recommends xorg xfce4 slim alsa-base alsa-utils hal gamin dbus-x11 sudo xdg-utils
+apt-get install --no-install-recommends xorg xfce4 slim alsa-base alsa-utils  gamin dbus-x11 sudo xdg-utils
+apt-get -y install  bind9 dnsutils
+mc
+rndc reload
+named-checkconf -z
+rndc reload
+mc
+mc
+apt-get -y install  bind9 dnsutils
+apt-get remove  bind9 dnsutils
+apt-get -y install  bind9 dnsutils
+mc
+rndc reload
+service bind restart
+named-checkconf -z
+netstat -tulnp | grep 953
+service named start
+/etc/init.d/bind9 restart
+netstat -tulnp | grep 953
+rndc reload
+mc
+reboot
+mc
+/etc/init.d/networking restart
+ifconfig
+/etc/init.d/network-manager status
+update-rc.d -f network-manager remove
+/etc/init.d/network-manager stop
+apt-get install sysv-rc-conf
+/etc/init.d/networking restart
+ifconfig
+mc
+ifconfig
+reboot
+mc
+rndc reload
+mc
+ifconfig
+mc
+nslookup google.com
+mc
+htop
+apt-get install dnstop
+dnstp
+dnsop
+dnstop
+dnstop -4
+dnstop eth0
+ifconfig
+dnstop eth0
+dnstop -4 eth0
+dnstop eth0
+dnstop -t -s eth0
+mc
+mc
+apt-get install dnstop
+dnstop -t -s eth0
+dnstop  eth0
+dnstop  eth0
+telnet 10.10.2.3 25
+history
+ service bind restart
+netstat -tulnp | grep 953
+service named start
+ /etc/init.d/bind9 restart
+telnet 10.10.2.3 25
+telnet 10.10.2.3 25
+mc
+rndc reload
+telnet 10.10.2.3 25
+telnet 10.10.2.3 25
+nslookup nerc.gov.ua
+mc
+rndc reload
+mc
+rndc reload
+rndc reload
+mc
+rndc reload
+dig mail.ru NS +tcp +short
+dig *** NS +tcp +short
+ /etc/init.d/bind9 restart
+telnet 10.10.2.3 25
+telnet 10.10.2.3 25
+mc
+rndc reload
+ /etc/init.d/bind9 restart
+telnet 10.10.2.3 25
+mc
+rndc reload
+telnet 10.10.2.3 25
+history
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+rndc reload
+ьс
+mc
+named-checkconf -z
+mc
+named-checkconf -z
+named-checkconf -z
+mc
+mc
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+history
+ /etc/init.d/bind9 restart
+rndc reloaf
+rndc reload
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+named-checkconf 
+ьс
+ьс
+mc
+named-checkconf -z
+rndc reload
+rndc reload
+ /etc/init.d/bind9 restart
+rndc reload
+ping debian7.***
+mc
+rndc querylog on
+mc
+ /etc/init.d/bind9 restart
+rndc reload
+named-checkconf -z
+telnet 10.10.2.3 25
+telnet 10.10.2.3 25
+mc
+mc
+nslookup *****
+mc
+nslookup -q=mx ******
+nslookup *****
+mc
+named-checkconf -z
+rndc reload
+nslookup ***
+mc
+rndc reload
+mc
+rndc reload
+named-checkconf -z
+mc
+named-checkconf -z
+rndc reload
+mc
+rndc reload
+named-checkconf -z
+mc
+rndc reload
+dig mx ***
+mc
+rndc reload
+named-checkconf -z
+rndc reload
+ /etc/init.d/bind9 restart
+rndc reload
+rndc reload
+named-checkconf -z
+mc
+mkdir /var/log/bind/
+touch /var/log/bind/misc.log
+touch /var/log/bind/query.log
+chmod 664 /var/log/bind/*
+rndc reload
+mc
+rndc reload
+ /etc/init.d/bind9 restart
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+named-checkconf -z
+rndc reload
+dig mx ***
+dig mx mail.ru
+dig mx meta.ua
+mc
+ps axu | grep bind
+ps axu | grep named
+ifconfig
+ /etc/init.d/bind9 restart
+rndc reload
+dig mx nerc.gov.ua
+dig mx ***
+ /etc/init.d/bind9 restart
+rndc reload
+ /etc/init.d/bind9 restart
+rndc reload
+named-checkconf -z
+named -v
+cd /usr/share/doc/bind9
+mc
+rndc reload
+named-checkconf -z
+named-checkconf -z
+rndc reload
+ /etc/init.d/bind9 restart
+dig mx nerc.gov.ua
+dig mx ***
+ /etc/init.d/bind9 restart
+dig mx ***
+dig mx nerc.gov.ua
+rndc reload
+mc
+time
+date
+date --set 14:57 
+mc
+dig mx ***
+df -h
+passwd
+passwd
+exit
+phoronix-test-suite system-info
+lhsw
+lshw
+hwinfo
+sudo hwinfo
+sudo apt-get install hwinfo
+sudo hwinfo
+uname -a
+sudo hwinfo --log logfile
+sudo hwinfo --short
+sudo hwinfo --all  --log lotsystem.txt
+sudo hwinfo --short  --log lotsystem1.txt
+sudo apt-get install lwsh
+sudo apt-get install lshw
+lshw
+sudo pacman -S i-nex libcpuid
+lshw-gui
+sudo apt-get install Ishw
+sudo apt-get  install lshw-gtk
+lshw-gtk
+lshw-gui
+lshw --help
+
+lshw -html
+lshw --help
+lshw -X
+df -h
+mc
+route add -net 192.168.100.0/24 gw 10.0.0.179
+ping 192.68.100.242
+ping 192.168.100.242
+mc
+service bind restart
+history
+/etc/init.d/bind9 restart
+ping 192.68.100.242
+ping 192.68.100.20
+ping 192.168.100.20
+ping 192.168.100.249
+mc
+history | grep "/*
+history
+ifconfig
+/etc/init.d/networking restart
